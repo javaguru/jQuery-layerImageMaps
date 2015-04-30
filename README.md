@@ -31,6 +31,16 @@ $(document).ready(function(e) {
 #### Example:
 
 ```html
+<style>
+        .layermaps {
+            border: 1px solid #646464;
+            background-color: #646464;
+            box-shadow: 1px 1px 10px 0px #888;
+            color: #fff;
+            padding: 2px;
+            font-size: 1em;
+        }
+</style>
 <div>
     <div>
         <h2>Worl Map</h2>
