@@ -17,7 +17,7 @@ $("#dynMap").layerImageMaps();
 * Options: ajust x or y position layer, depend CSS target container:
 
 ```js
-$("#dynMap").layerImageMaps({ajustTop: 38, ajustLeft: 4}); // full options!
+$("#dynMap").layerImageMaps({ajustTop: 0, ajustLeft: 0}); // full options!
 ```
 
 You may also want to wrap it inside a `$(document).ready()` function, like so:
