@@ -76,7 +76,7 @@ $(document).ready(function(e) {
 
 #### Demo:
 
-http://...
+https://jsfiddle.net/Neuxs6/gfbueyuc/3/
 
 ---
 
