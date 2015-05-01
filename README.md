@@ -38,7 +38,7 @@ $(document).ready(function(e) {
             box-shadow: 1px 1px 10px 0px #888;
             color: #fff;
             padding: 2px;
-            font-size: 1em;
+            font-size: 11px;
         }
 </style>
 <div>
@@ -48,7 +48,7 @@ $(document).ready(function(e) {
 
     <!-- Beginning of Client Side Image Map only shape="rect" -->
     <div id="dynMap">
-        <img src="WorldMap.png" usemap="#banner" border="0" style="width: 100%; height: auto">
+        <img src="WorldMap.png" usemap="#banner" border="0" style="width: 100%; height: auto"/>
         <map name="banner">
             <!-- links area to id layer -->
             <area shape="rect" coords="1100,310,1101,311"   href="ch" data-id="index0"/> 
@@ -76,7 +76,7 @@ $(document).ready(function(e) {
 
 #### Demo:
 
-https://jsfiddle.net/Neuxs6/gfbueyuc/5/
+https://jsfiddle.net/Neuxs6/gfbueyuc/6/
 
 ---
 
