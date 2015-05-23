@@ -69,7 +69,7 @@
 
                         var layer = $("#layer-"+$this.attr('data-id'));
 
-                        layer.appendTo($($obj));
+                        layer.appendTo($obj);
 
                         //console.log("area: "+$this.attr('data-id'));
 
